@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Venkata Sai Teja,
+Follow me on ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fbablu4195)
 
 <!--
 **bablu4195-1/bablu4195-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
