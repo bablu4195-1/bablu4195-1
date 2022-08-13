@@ -18,7 +18,7 @@
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: I use spaces over tabs  
+- ⚡ Fun fact: Crocodiles are older than apes 
   
 
 <br/>  
