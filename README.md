@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning Java, Kotlin and Bash  
   
 
-- ❓ Ask me about anything related to MEAN stack and related technologies  
+- ❓ Ask me about anything related to MEAN stack  
   
 
 - ⚡ Fun fact: Crocodiles are older than apes 
