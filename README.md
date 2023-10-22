@@ -99,10 +99,10 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/https://github.com/bablu4195-1" target="_blank">
+<a href="https://github.com/bablu4195-1" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/https://twitter.com/venkatasaitejaM" target="_blank">
+<a href="https://twitter.com/venkatasaitejaM" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -139,4 +139,4 @@ If things goes well, this section should automatically be replaced by a list of 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">Generated using <a href="https://profilinator.bablu4195.dev/" target="_blank">Github Profilinator</a></div>
