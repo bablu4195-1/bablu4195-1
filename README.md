@@ -6,7 +6,7 @@
 </div>  
   
 
-### <div align="center">I'm Venkata Sai Teja, a full-time full-stack developer 👨‍💻 working since 2019 🚀</div>  
+### <div align="center">I'm Venkata Sai Teja, a full-stack developer 👨‍💻 working since 2019 🚀</div>  
   
 
 - 🔭 I’m currently working on Android native, MEAN Stack  
