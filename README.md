@@ -9,10 +9,7 @@
 ### <div align="center">I'm Venkata Sai Teja, a full-stack developer 👨‍💻 working since 2019 🚀</div>  
   
 
-- 🔭 I’m currently working on Android native, MEAN Stack  
-  
-
-- 🌱 I’m currently learning Java, Kotlin and Bash  
+- 🔭 I’m currently working on MEAN Stack  
   
 
 - ❓ Ask me about anything related to MEAN stack  
